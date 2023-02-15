@@ -30,14 +30,14 @@
 // STEP 5
 //  let firstName = Meghan
 
-//  let strLastName
-//  strLastName = LaVay
+//  let strLastName;
+//  strLastName = LaVay;
 
-//  const intYourAge
-//  intYourAge = prompt('What is your age?')
+//  const intYourAge;
+//  intYourAge = prompt('What is your age?');
 
 // STEP 6
-// let classesCompleted = 3
+// let classesCompleted = 3;
 // console.log('Meghan has completed ' + classesCompleted + ' classes.');
 
 // STEP 7
@@ -53,14 +53,23 @@
 // console.log(someString)
 
 // STEP 9
-let x = null
-console.log (x)
+// let x = null
+// console.log (x)
 
-let x
-console.log(x)
+// let x
+// console.log(x)
 
 // STEP 10
+// console.log(typeof 'Meghan');
+// console.log(typeof 12345);
+// console.log(typeof false);
+// console.log(typeof [1,2,3,4]);
+// console.log(typeof var1);
 
+// STEP 11
 
+alert('Hello ' + Meghan + ', welcome to the JavaScript class!');
 
-
+// STEP 12
+// let myName = Meghan 
+// alert('Hello ' + myName + ', welcome to the JavaScript class!');
